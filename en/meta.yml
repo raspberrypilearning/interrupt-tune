@@ -1,11 +1,9 @@
-title: Interrupt a tune
+title: Play a tune and allow other actions to take place while it is playing
 hero_image: images/banner.png
-description: interrupt-tune description
+description: Play a tune and allow other actions to take place while it is playing
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-03-10"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Play a tune and allow other actions to take place while it is playing
