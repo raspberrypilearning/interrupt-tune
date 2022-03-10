@@ -1,4 +1,4 @@
-You can add code to play one tune or sound then use a button or switch to play another tune at the moment it is activated rather than waiting until the end: 
+You can add code to play one tune or sound then use a button or switch to play another tune at the moment it is activated (rather than waiting for the first tune to  end): 
 
 --- code ---
 ---
