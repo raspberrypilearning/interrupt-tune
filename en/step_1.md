@@ -22,7 +22,7 @@ liten_mus = [ ['d5', BEAT / 2], ['d#5', BEAT / 2], ['f5', BEAT], ['d6', BEAT], [
 sound = [ [523, 0.1], [None, 0.1], [523, 0.4] ]
 
 def annoying_sound():
-    speaker2.play(sound, wait=False)
+    speaker2.play(sound, wait=False) # don't delay the main code 
 
 button.when_pressed = annoying_sound
 
