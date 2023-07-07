@@ -1,0 +1,5 @@
+BEAT
+sound
+annoying_sound
+speaker
+button
