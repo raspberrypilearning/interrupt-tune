@@ -22,7 +22,7 @@ liten_mus = [ ['d5', BEAT / 2], ['d#5', BEAT / 2], ['f5', BEAT], ['d6', BEAT], [
 geluid = [ [523, 0.1], [None, 0.1], [523, 0.4] ]
 
 def vervelend_geluid():
-    luidspreker2.play(sound, wait=False) # vertraag de hoofdcode niet
+    luidspreker2.play(geluid, wait=False) # vertraag de hoofdcode niet
 
 knop.when_pressed = vervelend_geluid
 
