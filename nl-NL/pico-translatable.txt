@@ -1,5 +1,5 @@
 BEAT
-sound
-annoying_sound
-speaker
-button
+geluid
+vervelend_geluid
+luidspreker
+knop
