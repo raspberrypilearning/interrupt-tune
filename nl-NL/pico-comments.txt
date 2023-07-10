@@ -1,0 +1,3 @@
+vertraag de hoofdcode niet
+schakelt luidspreker uit wanneer de code wordt gestopt door de gebruiker
+schakelt luidspreker2 uit wanneer de code wordt gestopt door de gebruiker

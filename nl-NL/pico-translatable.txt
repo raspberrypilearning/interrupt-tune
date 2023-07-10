@@ -1,0 +1,5 @@
+BEAT
+geluid
+vervelend_geluid
+luidspreker
+knop
