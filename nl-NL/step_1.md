@@ -1,4 +1,4 @@
-If you want to play a whole tune and be able to interrupt it before it finishes then you can create a tune as a list of notes and durations and then use `play` with `wait=False`. This will allow you to stop the tune or play another tune by pressing the same or a different button:
+Als je een heel deuntje wilt spelen en het wilt onderbreken voordat het is afgelopen, kun je een deuntje maken als een lijst met noten en tijdsduren en dan `play` gebruiken met `wait=False`. Hiermee kun je het deuntje stoppen of een ander deuntje afspelen door op dezelfde of een andere knop te drukken:
 
 --- code ---
 ---
