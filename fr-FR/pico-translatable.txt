@@ -1,5 +1,5 @@
-BEAT
-sound
-annoying_sound
-speaker
-button
+RYTHME
+son
+son_ennuyeux
+haut_parleur
+bouton
