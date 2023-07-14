@@ -1,4 +1,4 @@
-If you want to play a whole tune and be able to interrupt it before it finishes then you can create a tune as a list of notes and durations and then use `play` with `wait=False`. This will allow you to stop the tune or play another tune by pressing the same or a different button:
+Si tu veux jouer un morceau entier et pouvoir l'interrompre avant qu'il ne se termine, tu peux créer un morceau sous la forme d'une liste de notes et de durées, puis utiliser `play` avec `wait=False`. Cela te permettra d'arrêter le morceau ou de jouer un autre morceau en appuyant sur le même bouton ou sur un autre :
 
 --- code ---
 ---
