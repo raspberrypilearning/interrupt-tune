@@ -1,0 +1,3 @@
+ne pas retarder le code principal
+éteint le haut-parleur lorsque le code est arrêté par l'utilisateur
+éteint le haut-parleur2 lorsque le code est arrêté par l'utilisateur
